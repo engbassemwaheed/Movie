@@ -1,0 +1,34 @@
+<resources>
+    <!-- activity names -->
+    <string name="app_name">Movie</string>
+    <string name="detail_activity_label">Movie Details</string>
+
+    <!-- main activity and main fragment strings -->
+    <string name="loading">Please wait while fetching the data</string>
+    <string name="sort_by">Sort By</string>
+    <string-array name="sorting">
+        <item>View</item>
+        <item>Most Popular</item>
+        <item>Most Rated</item>
+        <item>Favourites</item>
+    </string-array>
+
+
+    <!-- detail activity and detail fragment strings -->
+    <string name="movie_title">Movie Title</string>
+    <string name="average_vote">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="over_view">Overview</string>
+    <string name="no_connection_message">No Network Connection</string>
+
+    <!-- Place holder strings -->
+    <string name="place_holder_string">Movie Name</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="review_not_available">No Reviews Available</string>
+    <string name="trailers_not_available">No Trailers available</string>
+    <string name="add_to_favs">Add to Favourites</string>
+    <string name="popular">Popular</string>
+    <string name="rating">Most Rated</string>
+    <string name="favourites">Favourites</string>
+</resources>
