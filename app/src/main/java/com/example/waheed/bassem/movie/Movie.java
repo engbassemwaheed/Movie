@@ -30,7 +30,7 @@ public class Movie implements Serializable{
     private final String REVIEW_FIXED_URL = "/reviews?";
 
     private final String API_KEY = "api_key=";
-    private final String APP_ID = "[API_KEY]";
+    private final String APP_ID = "203b6ca87d8f7410193e8f740928dae2";
 
     private final String IMAGE_BASE_URL = "http://image.tmdb.org/t/p";
     private final String IMAGE_SCALING_TYPE = "/w342";
