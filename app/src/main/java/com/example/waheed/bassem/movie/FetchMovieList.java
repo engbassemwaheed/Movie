@@ -38,7 +38,7 @@ public class FetchMovieList extends AsyncTask <Void, Void, ArrayList<Movie>>{
     private final String INCLUDE_ADULT_STATE = "false";
 
     private final String API_KEY = "api_key";
-    private final String APP_ID = "[API_KEY]";
+    private final String APP_ID = "203b6ca87d8f7410193e8f740928dae2";
 
     private final String REQUEST_METHOD = "GET";
 
